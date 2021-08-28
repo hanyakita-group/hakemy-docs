@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 category: folder-tetings
 order: 1
 ---
