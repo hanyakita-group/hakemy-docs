@@ -50,15 +50,15 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-      - name: "Category"
+      - name: "category"
         field:
           element: "text"
-          label: "category"
+          label: "Category"
           value: ""
-      - name: "Order"
+      - name: "order"
         field:
           element: "text"
-          label: "order"
+          label: "Order"
           value: ""
       - name: "published"
         field:
