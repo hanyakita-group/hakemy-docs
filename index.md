@@ -1,17 +1,23 @@
 ---
 title: Welcome
+published: true
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+Ini adalah tempat tulisan dokumentasi proses pembuatan aplikasi hakemy.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+![prosesan.jpg]({{site.baseurl}}/media/prosesan.jpg)
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+## FAQ
 
-### Getting Started
+### Hey hisam, apa itu hakemy ?
+
+Hakemi adalah singkatan dari hanya kita academy.
+
+### Hey hisam, aku ingin berkontribusi, ada typo, membenarkan, ide baru, bagamana caranya ?
+
+Oke, scroll ke bawah.
+
+## Membuat halaman baru
 
 Getting a message sent is quick and easy with ChatApp:
 
