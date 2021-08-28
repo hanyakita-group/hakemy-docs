@@ -40,8 +40,7 @@ exclude:
 
 prose:
   #rooturl: '_posts'
-  siteurl: 'http://joshuacox.github.io/'
-  relativeLinks: 'http://joshuacox.github.io/links.jsonp'
+  siteurl: 'https://hanyakita-group.github.io/hakemy-docs/'
   media: 'media'
   metadata:
     _posts:
