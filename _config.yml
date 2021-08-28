@@ -83,7 +83,7 @@ types:
 # CloudCannon
 
 prose:
-  rooturl: "_docs"
+  rooturl: "/"
   siteurl: "https://hanyakita-group.github.io/hakemy-docs/"
   media: "media"
   _posts:
