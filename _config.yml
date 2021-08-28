@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Edition Template
+title: Hakemy Docs
 url: "https://long-pig.cloudvent.net"
-baseurl:
+baseurl: "https://hanyakita-group.github.io/hakemy-docs/"
 google_analytics_key:
 show_full_navigation: true
 
@@ -11,13 +11,13 @@ show_full_navigation: true
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
 author:
-  name:
-  email:
+  name: Hisam
+  email: hisamcode@gmail.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: Hakemy Docs
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://hanyakita-group.github.io/hakemy-docs
 
 # -----
 # Build
