@@ -19,7 +19,7 @@ Ini adalah tempat tulisan dokumentasi proses pembuatan aplikasi hakemy.
 
 Hakemy adalah singkatan dari hanya kita academy.
 
-### Hey hisam, aku ingin berkontribusi, ada typo, membenarkan, merapihkan, ide baru, bagaimana caranya ?
+### Hey hisam, aku ingin berkontribusi, ada typo, membenarkan, merapihkan, ide baru, ganti nama, bagaimana caranya ?
 
 Oke oke, tenang tenang, scroll ke bawah.
 
@@ -88,7 +88,7 @@ Oke oke, tenang tenang, scroll ke bawah.
 ### Delete tulisan baru
 
 1. Ubah judul item/artikel dan tambahkan deleted
-	**_ contoh nya 2021-08-08-deleted-testing-judul.md _**
+	**contoh nya 2021-08-08-deleted-testing-judul.md**
     
     > **DILARANG HARD RESET, nge klik icon trash**.
 	   
@@ -106,3 +106,7 @@ Oke oke, tenang tenang, scroll ke bawah.
 
 5. Chat ke group whatsapp bahwa ada ide atau fitur baru.
 
+
+### Dimana file welcome
+
+File welcome berada di hakemy-docs/index.md
