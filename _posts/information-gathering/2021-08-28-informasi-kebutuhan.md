@@ -1,6 +1,6 @@
 ---
 published: true
-category: 1. Information Gathering
+category: Information Gathering
 order: '1'
 ---
 ## informasi kebutuhan
