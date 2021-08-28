@@ -12,6 +12,7 @@ Ini adalah tempat tulisan dokumentasi proses pembuatan aplikasi hakemy.
 1. browser Windows navigation link ada disebelah kiri
 2. browser Android navigation link ada di menu burger link, di atas kanan.
 
+
 ## FAQ
 
 ### Hey hisam, apa itu hakemy ?
@@ -41,16 +42,44 @@ Oke oke, tenang tenang, scroll ke bawah.
 
 5. ![folder posts.png]({{site.baseurl}}/media/folder posts.png)
 	
-    klik folder _posts
+    Klik folder _posts
 
-6.
+6. ![new file.png]({{site.baseurl}}/media/new file.png)
+	
+    Klik new file
 
-7.
-
-8.
-
-9.
+7. ![klik metadata.png]({{site.baseurl}}/media/klik metadata.png)
+	
+    Klik metadata untuk ditambahkan di navigation link
     
+8. ![metadata.png]({{site.baseurl}}/media/metadata.png)
+	
+    - Pilih category navigation link
+    - Order untuk menentukan order link item category (bukan categori nya tapi item categori nya)
+    	**contoh nya** 
+        - installasi (order 2)
+        - getting started (order 1)
+        - running (order 3)
+        
+        **Output nya** 
+        - getting started (order 1)
+        - installasi (order 2)
+        - running (order 3)
+     - Published = publish atau tidak artikel nya.
+
+9. ![title.png]({{site.baseurl}}/media/title.png)
+
+	judul item/artikel
+    
+10. tulis artikel
+
+11. ![save.png]({{site.baseurl}}/media/save.png)
+	
+    - klik disk icon (sepertinya)
+    - lalu klik commi
+
+
+
 
 
 > Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
