@@ -9,7 +9,7 @@ Ini adalah tempat tulisan dokumentasi proses pembuatan aplikasi hakemy.
 
 ## Cara menggunakan
 
-1. browser Windows navigation link ada disebelah kiri
+1. browser Windows navigation link ada disebelah kiri.
 2. browser Android navigation link ada di menu burger link, di atas kanan.
 
 
@@ -38,19 +38,19 @@ Oke oke, tenang tenang, scroll ke bawah.
     
 4. ![list repo.png]({{site.baseurl}}/media/list repo.png)
 	
-    Klik repo hakemy-docs
+    Klik repo hakemy-docs.
 
 5. ![folder posts.png]({{site.baseurl}}/media/folder posts.png)
 	
-    Klik folder _posts
+    Klik folder _posts.
 
 6. ![new file.png]({{site.baseurl}}/media/new file.png)
 	
-    Klik new file
+    Klik new file.
 
 7. ![klik metadata.png]({{site.baseurl}}/media/klik metadata.png)
 	
-    Klik metadata untuk ditambahkan di navigation link
+    Klik metadata untuk ditambahkan di navigation link.
     
 8. ![metadata.png]({{site.baseurl}}/media/metadata.png)
 	
@@ -69,14 +69,14 @@ Oke oke, tenang tenang, scroll ke bawah.
 
 9. ![title.png]({{site.baseurl}}/media/title.png)
 
-	judul item/artikel
+	judul item/artikel.
     
-10. tulis artikel
+10. tulis artikel nya, lalu save.
 
 11. ![save.png]({{site.baseurl}}/media/save.png)
 	
     - klik disk icon (sepertinya)
-    - lalu klik commi
+    - lalu klik commit
 
 
 ### Edit tulisan baru
