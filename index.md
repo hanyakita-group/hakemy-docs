@@ -90,7 +90,7 @@ Oke oke, tenang tenang, scroll ke bawah.
 1. Ubah judul item/artikel dan tambahkan deleted
 	**_ contoh nya 2021-08-08-deleted-testing-judul.md _**
     
-    > **Dilarang hard reset, klik icon trash**.
+    > **DILARANG HARD RESET, nge klik icon trash**.
 	   
     untuk kenang-kenagan, yang penting pesan tersampaikan ke pemirsa bahwa artikel/item tersebut dihapus.
     
