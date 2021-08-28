@@ -66,11 +66,6 @@ prose:
               value: "Deployment"
             - name: "Go Live"
               value: "Go Live"
-      - name: "category"
-        field:
-          element: "text"
-          label: "Category"
-          value: ""
       - name: "order"
         field:
           element: "text"
