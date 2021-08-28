@@ -52,7 +52,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "docs"
+      type: "posts"
     values:
       seo:
         type: Article
@@ -64,12 +64,12 @@ defaults:
           width: 800
           height: 2000
   -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      _comments:
-        type: Marks the impact of this release
+    #scope:
+      #path: ""
+      #type: "posts"
+    #values:
+      #_comments:
+        #type: Marks the impact of this release
 
 # -----------
 # CloudCannon
@@ -85,7 +85,7 @@ types:
 prose:
   siteurl: "https://hanyakita-group.github.io/hakemy-docs/"
   media: "media"
-  _docs:
+  _posts:
     - name: "category"
       field:
         element: "hidden"
