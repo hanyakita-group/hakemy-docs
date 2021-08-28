@@ -81,12 +81,3 @@ types:
   
 # -----------
 # CloudCannon
-
-prose:
-  siteurl: "https://hanyakita-group.github.io/hakemy-docs/"
-  media: "media"
-  _posts:
-    - name: "category"
-      field:
-        element: "hidden"
-        value: "blog"
