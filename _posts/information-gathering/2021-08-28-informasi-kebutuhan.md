@@ -1,7 +1,7 @@
 ---
 published: true
 category: Information Gathering
-order: '1'
+order: '2'
 ---
 ## informasi kebutuhan
 s
