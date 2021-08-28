@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 category: Devices
 order: 3
 ---
