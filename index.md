@@ -17,9 +17,9 @@ Hakemi adalah singkatan dari hanya kita academy.
 
 Oke, scroll ke bawah.
 
-## Membuat halaman baru
+## Membuat tulisan baru
 
-Getting a message sent is quick and easy with ChatApp:
+1. klik link [https://prose.io/](https://prose.io/ "prose.io")
 
 1. Sign up for an account
 2. Add your friends from their email addresses
