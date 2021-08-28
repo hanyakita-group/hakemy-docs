@@ -7,17 +7,22 @@ Ini adalah tempat tulisan dokumentasi proses pembuatan aplikasi hakemy.
 
 ![prosesan.jpg]({{site.baseurl}}/media/prosesan.jpg)
 
+## Cara menggunakan
+
+1. browser Windows navigation link ada disebelah kiri
+2. browser Android navigation link ada di menu burger link, di atas kanan.
+
 ## FAQ
 
 ### Hey hisam, apa itu hakemy ?
 
-Hakemi adalah singkatan dari hanya kita academy.
+Hakemy adalah singkatan dari hanya kita academy.
 
-### Hey hisam, aku ingin berkontribusi, ada typo, membenarkan, ide baru, bagamana caranya ?
+### Hey hisam, aku ingin berkontribusi, ada typo, membenarkan, merapihkan, ide baru, bagaimana caranya ?
 
-Oke, scroll ke bawah.
+Oke oke, tenang tenang, scroll ke bawah.
 
-## Membuat tulisan baru
+### Membuat tulisan baru
 
 1. CTRL + klik link [https://prose.io/](https://prose.io/ "prose.io")
 
@@ -26,7 +31,26 @@ Oke, scroll ke bawah.
     - klik set repository accesss dan ganti menjadi public & private repositories
     - klik authorize
     
-3. 
+3. ![login github.png]({{site.baseurl}}/media/login github.png)
+	
+    isi username dan password akun github kalian.
+    
+4. ![list repo.png]({{site.baseurl}}/media/list repo.png)
+	
+    Klik repo hakemy-docs
+
+5. ![folder posts.png]({{site.baseurl}}/media/folder posts.png)
+	
+    klik folder _posts
+
+6.
+
+7.
+
+8.
+
+9.
+    
 
 
 > Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
