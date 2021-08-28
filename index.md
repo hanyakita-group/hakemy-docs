@@ -19,11 +19,15 @@ Oke, scroll ke bawah.
 
 ## Membuat tulisan baru
 
-1. klik link [https://prose.io/](https://prose.io/ "prose.io")
+1. CTRL + klik link [https://prose.io/](https://prose.io/ "prose.io")
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+2. ![authorize github.png]({{site.baseurl}}/media/authorize github.png)
+	
+    - klik set repository accesss dan ganti menjadi public & private repositories
+    - klik authorize
+    
+3. 
+
 
 > Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
 
