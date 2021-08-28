@@ -39,7 +39,7 @@ exclude:
 
 
 prose:
-  #rooturl: '_posts'
+  rooturl: '_posts'
   siteurl: 'https://hanyakita-group.github.io/hakemy-docs/'
   media: 'media'
   metadata:
