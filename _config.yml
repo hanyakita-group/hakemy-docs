@@ -77,3 +77,10 @@ defaults:
 types:
   - minor
   - major
+  
+  
+# -----------
+# CloudCannon
+
+prose:
+	_docs: 
