@@ -5,7 +5,7 @@ order: '1'
 ---
 Mengumpulkan informasi untuk kebutuhan pembuatan aplikasi.
 
-Ada 2 jenis tehnik yang digunakan untuk mengumpulkan informasi kebutuhan, yaitu
+Ada 3 jenis tehnik yang digunakan untuk mengumpulkan informasi, yang sesuai kebutuhan, yaitu
 
 1. Memeriksa web serupa 
 	
