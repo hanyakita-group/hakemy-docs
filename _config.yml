@@ -38,7 +38,7 @@ exclude:
   - LICENCE
 
 collections:
-  posts:
+  docs:
     title: Documentation
     permalink: /:path/
     output: true
@@ -52,7 +52,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "docs"
     values:
       seo:
         type: Article
