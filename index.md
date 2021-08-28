@@ -79,23 +79,30 @@ Oke oke, tenang tenang, scroll ke bawah.
     - lalu klik commi
 
 
+### Edit tulisan baru
 
+1. ![edit klik.png]({{site.baseurl}}/media/edit klik.png)
+	
+	klik icon pencil/pulpen di file md
 
+### Delete tulisan baru
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+1. Ubah judul item/artikel dan tambahkan deleted
+	**_ contoh nya 2021-08-08-deleted-testing-judul.md _**
+    
+    > **Dilarang hard reset, klik icon trash**.
+	   
+    untuk kenang-kenagan, yang penting pesan tersampaikan ke pemirsa bahwa artikel/item tersebut dihapus.
+    
+### Ide atau fitur Baru
 
-### Features
+1. Tambah halaman baru di category information gathering, isinya informasi yang didapatkan atau inspeksi dari website-website
 
-Explore more of ChatApp by reading about our features:
+2. Tambah halaman baru di category research planning.
 
-#### Media
+3. Tambah halaman baru di category design prototiping.
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+4. Tambah halaman baru di category rancangan konsep ide/fitur aplikasi.
 
-#### Contact Syncing
+5. Chat ke group whatsapp bahwa ada ide atau fitur baru.
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
