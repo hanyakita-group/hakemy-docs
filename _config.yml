@@ -38,7 +38,7 @@ exclude:
   - LICENCE
 
 collections:
-  docs:
+  posts:
     title: Documentation
     permalink: /:path/
     output: true
