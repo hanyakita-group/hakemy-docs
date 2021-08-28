@@ -3,6 +3,8 @@ published: true
 category: 1.Information Gathering
 order: '1'
 ---
+![Hanya kita is watching you]({{site.baseurl}}/media/watching ue.jpg)
+
 Mengumpulkan informasi untuk kebutuhan pembuatan aplikasi.
 
 Ada 3 jenis tehnik yang digunakan untuk mengumpulkan informasi, yang sesuai kebutuhan, yaitu
