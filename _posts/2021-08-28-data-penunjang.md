@@ -1,6 +1,6 @@
 ---
 published: true
-category: Information Gathering
+category: 1.Information Gathering
 order: '2'
 ---
 ## A New Post
