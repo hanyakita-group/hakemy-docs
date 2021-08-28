@@ -46,6 +46,28 @@ prose:
     _posts:
       - name: "category"
         field:
+          element: "select"
+          label: "Add Category"
+          placeholder: "Choose Category"
+          options:
+            - name: "Information Gathering"
+              value: "Information Gathering"
+            - name: "Research & Planing"
+              value: "Research & Planing"
+            - name: "Design & Prototiping"
+              value: "Design & Prototiping"
+            - name: "POC"
+              value: "POC"
+            - name: "Development"
+              value: "Development"
+            - name: "Staging"
+              value: "Staging"
+            - name: "Deployment"
+              value: "Deployment"
+            - name: "Go Live"
+              value: "Go Live"
+      - name: "category"
+        field:
           element: "text"
           label: "Category"
           value: ""
